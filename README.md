@@ -11,13 +11,8 @@
 (If you need to use our examples for teaching or publish articles based on our code, you need to cite our articles below:)
 
 [1]	尤心怡,蔡宇琪,王奕婧,等. 传染病动力学传播模型入门课程的建设与思考[J]. 中华医学教育杂志,2023,43(09) : 645-648. DOI:10.3760/cma.j.cn115259-20221014-01302
+   
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
+详细内容，请在“Practice Cases”分支查阅。
+
+For details, please refer to the "Practice Cases" branches.
