@@ -5,6 +5,7 @@
 （This is a collection of practice cases of the course of dynamic Transmission Model of Infectious diseases offered by the School of Public Health, Sun Yat-sen University.）
 
 
+
 如果您需要使用我们的案例展开教学，或者基于我们的代码文章发表，需要引用我们以下的文章：
 
 (If you need to use our examples for teaching or publish articles based on our code, you need to cite our articles below:)
